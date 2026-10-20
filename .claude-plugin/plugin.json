@@ -1,0 +1,12 @@
+{
+  "name": "product-wiki",
+  "version": "0.1.0",
+  "description": "Maintains a self-healing DAG of LLM-authored wiki pages automatically synced with your codebase",
+  "author": {
+    "name": "Pranav",
+    "email": "pranav@kcart.dev"
+  },
+  "keywords": ["wiki", "docs", "knowledge-graph", "eis"],
+  "homepage": "https://esxr.github.io/product-wiki",
+  "repository": "https://github.com/esxr/product-wiki"
+}
